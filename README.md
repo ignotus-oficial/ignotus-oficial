@@ -1,5 +1,5 @@
 <div align="center">
-  Hello, we are Ignotus the new ethernet puzzle.
+  Hello, we are Ignotus the new ethernet engma.
   <br>
     💬 contact 💬
   <br>
