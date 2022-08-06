@@ -1,7 +1,5 @@
 <div align="center">
   Hello, we are Ignotus the new ethernet puzzle.
-  ##
-
   <br>
     💬 contact 💬
   <br>
@@ -14,7 +12,7 @@
     <hr> </hr>
     <br>
 
-   <div align="center">
+   <div align="center" >
     <img src="https://i.imgur.com/vEBhYyI_d.webp?maxwidth=760&fidelity=grand" >
   </div>
  </div>
